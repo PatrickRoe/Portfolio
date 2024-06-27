@@ -1,0 +1,19 @@
+#cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center; 
+    padding: 50px;
+    background-color: #EFEAE6;
+}
+
+.color  {
+    background-color: #dbcbc19e !important; 
+}
+
+.hight {
+    height: 600px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

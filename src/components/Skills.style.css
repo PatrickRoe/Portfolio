@@ -1,0 +1,43 @@
+#skills-section {
+    background-color: #EFEAE6 !important; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    height: 100vh;
+    padding: 20px; 
+}
+
+.skill-h1 {
+    margin-bottom: 30px;
+    font-size: 2em; 
+    text-align: center; 
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 30px;
+}
+
+.radial-progress {
+    background-color: #e5d8cc !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+}
+
+.skill-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill-name h2 {
+    margin-bottom: 10px; 
+}

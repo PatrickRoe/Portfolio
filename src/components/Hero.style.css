@@ -1,0 +1,45 @@
+.hero-section{
+    .hero {
+        background-image: url("../assets/pictures/background2.webp");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        .hero-content {
+            background-color: #faf7f5bb;
+            border-radius: 2rem;
+        }
+    }
+}
+
+
+@media (min-width: 576px) {
+  
+}
+
+@media (min-width: 768px) {
+
+    .hero-section{
+        .hero{
+            .hero-content{
+                padding: 4rem;
+            }
+        }
+    }
+ 
+}
+
+@media (min-width: 992px) {
+  
+}
+
+@media (min-width: 1200px) {
+  
+}
+
+@media (min-width: 1400px) {
+  
+}
+
+@media (min-width: 1920px) {
+ 
+}
