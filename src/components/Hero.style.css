@@ -1,6 +1,6 @@
 .hero-section{
     .hero {
-        background-image: url("../assets/pictures/background2.webp");
+        background-image: url("../assets/picutres/background2.webp") !important;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
