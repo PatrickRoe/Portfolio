@@ -1,6 +1,8 @@
-import "./Project.style.css";
 import WetterHamburg from "../assets/picutres/WetterHamburg.png";
 import Movie from "../assets/picutres/Movie.png";
+import Questions from "../assets/picutres/Questions.png"
+import Notice from "../assets/picutres/Notice.png"
+import "./Project.style.css";
 
 export function Project() {
   return (
@@ -11,7 +13,7 @@ export function Project() {
             <img
               src={WetterHamburg}
               alt="Wetter in Hamburg"
-              className="w-full h-100 object-cover"
+              className="w-full"
             />
           </figure>
           <div className="card-body">
@@ -33,8 +35,8 @@ export function Project() {
           <figure>
           <img
               src={Movie}
-              alt="Wetter in Hamburg"
-              className="w-full h-100 object-cover"
+              alt="Weather in Hamburg"
+              className="w-full"
             />
           </figure>
           <div className="card-body">
@@ -53,24 +55,44 @@ export function Project() {
 
         <div className="hight color project3 card glass w-96">
           <figure>
-          
+          <img
+              src={Questions}
+              alt="Questions"
+              className="w-full"
+            />
           </figure>
           <div className="card-body">
             <h2 className="card-title">Project 3</h2>
-            <p>Coming soon..</p>
+            <p>Questions</p>
             <div className="card-actions justify-end">
-              <button className="btn btn-primary">Click me</button>
+            <a
+                href="https://github.com/PatrickRoe/Questions"
+                className="btn btn-primary"
+              >
+                Click me
+              </a>
             </div>
           </div>
         </div>
-
+        
         <div className="hight color project4 card glass w-96">
-          <figure></figure>
+          <figure>
+          <img
+              src={Notice}
+              alt="Notice App"
+              className="w-full"
+            />
+          </figure>
           <div className="card-body">
             <h2 className="card-title">Project 4</h2>
-            <p>Coming soon..</p>
+            <p>Notice App</p>
             <div className="card-actions justify-end">
-              <button className="btn btn-primary">Click me</button>
+            <a
+                href="https://github.com/PatrickRoe/NotizBlock"
+                className="btn btn-primary"
+              >
+                Click me
+              </a>
             </div>
           </div>
         </div>
