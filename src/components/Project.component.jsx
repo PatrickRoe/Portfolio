@@ -22,7 +22,7 @@ export function Project() {
             <div className="card-actions justify-end">
               <a
                 href="https://github.com/PatrickRoe/WeatherApp"
-                className="btn btn-primary"
+                className="btn btn-warning"
               >
                 Click me
               </a>
@@ -40,7 +40,7 @@ export function Project() {
             <div className="card-actions justify-end">
               <a
                 href="https://favorite-movies-list.vercel.app/"
-                className="btn btn-primary"
+                className="btn btn-warning"
               >
                 Click me
               </a>
@@ -58,7 +58,7 @@ export function Project() {
             <div className="card-actions justify-end">
               <a
                 href="https://github.com/PatrickRoe/Questions"
-                className="btn btn-primary"
+                className="btn btn-warning"
               >
                 Click me
               </a>
@@ -76,7 +76,7 @@ export function Project() {
             <div className="card-actions justify-end">
               <a
                 href="https://github.com/PatrickRoe/NotizBlock"
-                className="btn btn-primary"
+                className="btn btn-warning"
               >
                 Click me
               </a>
