@@ -29,10 +29,10 @@ export function Navbar() {
                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
               >
                 <li>
-                  <a>Homepage</a>
+                <a href="#cards">Projects</a>
                 </li>
                 <li>
-                  <a>Portfolio</a>
+                <a href="#skills-section">Skills</a>
                 </li>
                 <li>
                   <a href="#contact">Contact</a>
