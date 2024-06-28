@@ -12,10 +12,12 @@
 }
 
 .hight {
-    height: 600px; 
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
-
+figure img {
+    height: 400px;   
+}
 
