@@ -10,10 +10,10 @@ export function Skills() {
             <h2>HTML</h2>
             <div
               className="radial-progress"
-              style={{ "--value": 100 }}
+              style={{ "--value": 95 }}
               role="progressbar"
             >
-              100%
+              95%
             </div>
           </div>
           <div className="skill-name">

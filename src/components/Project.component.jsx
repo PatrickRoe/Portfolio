@@ -21,7 +21,7 @@ export function Project() {
             <p> Weather App</p>
             <div className="card-actions justify-end">
               <a
-                href="https://github.com/PatrickRoe/WeatherApp"
+                href="https://weather-app-eta-five-31.vercel.app/"
                 className="btn btn-warning"
               >
                 Click me
