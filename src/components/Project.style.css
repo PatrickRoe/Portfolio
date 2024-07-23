@@ -1,10 +1,13 @@
 #cards {
     display: flex;
-    gap: 20px;
+    gap: 40px;
     flex-wrap: wrap;
     justify-content: center; 
-    padding: 50px;
+    padding: 70px;
     background-color: #EFEAE6;
+}
+.card:hover {
+    transform: scale(1.02);
 }
 
 .color  {
