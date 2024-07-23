@@ -24,6 +24,10 @@ figure img {
     background-color: #57A9AE;
     border: solid #57A9AE;
     color: white;
-    
 } 
+.card-actions a:hover {
+    background-color: #468b8f;
+    border: #468b8f;
+    transform: scale(1.1);
+}  
 

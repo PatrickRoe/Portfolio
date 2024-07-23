@@ -76,7 +76,7 @@ export function Project() {
             <div className="card-actions justify-end">
               <a
                 href="https://github.com/PatrickRoe/NotizBlock"
-                className="btn btn-warning"
+                className="btn"
               >
                 Click me
               </a>
