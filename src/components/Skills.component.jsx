@@ -72,6 +72,50 @@ export function Skills() {
           </div>
 
           <div className="skill-name">
+            <h2>Firebase</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 68 }}
+              role="progressbar"
+            >
+              68%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Terminal</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 81 }}
+              role="progressbar"
+            >
+              81%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Figma</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 67 }}
+              role="progressbar"
+            >
+              67%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Sass</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 55 }}
+              role="progressbar"
+            >
+              55%
+            </div>
+          </div>
+
+          <div className="skill-name">
             <h2>GitHub</h2>
             <div
               className="radial-progress"
