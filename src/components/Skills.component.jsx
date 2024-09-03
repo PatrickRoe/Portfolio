@@ -39,6 +39,28 @@ export function Skills() {
           </div>
 
           <div className="skill-name">
+            <h2>React</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 86 }}
+              role="progressbar"
+            >
+              86%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Node.js</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 71 }}
+              role="progressbar"
+            >
+              71%
+            </div>
+          </div>
+
+          <div className="skill-name">
             <h2>Tailwind</h2>
             <div
               className="radial-progress"
@@ -57,6 +79,83 @@ export function Skills() {
               role="progressbar"
             >
               78%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Mongoose</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 78 }}
+              role="progressbar"
+            >
+              78%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Bcrypt</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 73 }}
+              role="progressbar"
+            >
+              73%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Express</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 65 }}
+              role="progressbar"
+            >
+              65%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>MongoDB</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 71 }}
+              role="progressbar"
+            >
+              71%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>MySQL</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 33 }}
+              role="progressbar"
+            >
+              33%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>DaisyUI</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 85 }}
+              role="progressbar"
+            >
+              85%
+            </div>
+          </div>
+
+          <div className="skill-name">
+            <h2>Tailwind</h2>
+            <div
+              className="radial-progress"
+              style={{ "--value": 82 }}
+              role="progressbar"
+            >
+              82%
             </div>
           </div>
         </div>
